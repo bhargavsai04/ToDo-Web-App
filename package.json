@@ -16,7 +16,7 @@
       "prettier --write ."
     ]
   },
-  "author": "Ankit Rawat(Tula's Institute)",
+  "author": "Bhargav Sai",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
